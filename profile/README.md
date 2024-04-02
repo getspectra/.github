@@ -1,3 +1,3 @@
-# Spectra Permission Logic Engine
+# Spectra 
 
-todo
+A declarative domain-specific language for permission management.
